@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-mongodb-crud-example",
+  "version": "1.0.0",
+  "description": "Node.js CRUD Server With MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msaydin/nodejs-mongodb-crud-example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mogodb",
+    "crud"
+  ],
+  "author": "msaydin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msaydin/nodejs-mongodb-crud-example/issues"
+  },
+  "homepage": "https://github.com/msaydin/nodejs-mongodb-crud-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3"
+  }
+}
